@@ -15,7 +15,7 @@ This is a beginner-friendly Python project that generates brochure-style content
 ---
 
 ## Tools Used
-sss
+
 - Python
 - OpenAI
 - Gradio
@@ -89,4 +89,3 @@ This project helped me learn:
 - How to securely manage API keys
 - How to structure a small Python project
 - How to work with Jupyter Notebooks
- 
